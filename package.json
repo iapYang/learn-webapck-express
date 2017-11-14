@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/iapYang/learn-webapck-express#readme",
   "devDependencies": {
+    "babel-eslint": "^8.0.2",
     "body-parser": "^1.18.2",
+    "eslint": "^4.11.0",
     "express": "^4.16.2",
     "http-proxy-middleware": "^0.17.4",
     "querystring": "^0.2.0"
