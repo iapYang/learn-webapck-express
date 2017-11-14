@@ -1,0 +1,25 @@
+{
+  "name": "learn-webapck-express",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://iapyang@github.com/iapYang/learn-webapck-express.git"
+  },
+  "author": "iapYang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iapYang/learn-webapck-express/issues"
+  },
+  "homepage": "https://github.com/iapYang/learn-webapck-express#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "http-proxy-middleware": "^0.17.4",
+    "querystring": "^0.2.0"
+  }
+}
